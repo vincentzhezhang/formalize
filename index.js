@@ -7,3 +7,5 @@ require('dom-event-shim');
 exports.Radio = require('./lib/radio');
 
 exports.Checkbox = require('./lib/checkbox');
+
+exports.Select = require('./lib/select');

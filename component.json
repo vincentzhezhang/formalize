@@ -1,6 +1,6 @@
 {
   "name": "formalize",
-  "repo": "shallker/formalize",
+  "repo": "Vincent-Zhe-Zhang/formalize",
   "description": "Formalize custom form elements.",
   "version": "1.0.0",
   "keywords": [],
@@ -17,6 +17,7 @@
   "scripts": [
     "index.js",
     "lib/radio.js",
-    "lib/checkbox.js"
+    "lib/checkbox.js",
+    "lib/select.js"
   ]
 }
